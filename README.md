@@ -6,7 +6,8 @@ An embedded AI and robotics project that combines computer vision and robotic au
 
 ## Project Overview
 
-![Robot Setup](images/setup.jpg)
+<img width="767" height="582" alt="image" src="https://github.com/user-attachments/assets/fd4c7421-038d-4748-8c16-253a09fbb525" />
+
 
 The system continuously monitors the Tic-Tac-Toe board, detects the player's move using image processing techniques, calculates the optimal response, and commands the robotic arm to place its piece automatically.
 
@@ -58,13 +59,15 @@ Robot Places Piece
 ## Screenshots
 
 ### Board Detection
-![Board Detection](images/board-detection.jpg)
+<img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/e783ed98-a7e7-41b4-867d-f28c269d9cbb" />
 
 ### Piece Recognition
-![Piece Detection](images/piece-detection.jpg)
+<img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/99f0eeb3-5321-4d57-8270-94a11d1b33cf" />
+
 
 ### Robot Playing
-![Robot Action](images/robot-action.jpg)
+<img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/f18c87c9-258e-472c-a686-0036ac0584cb" />
+
 
 ---
 
